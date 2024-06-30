@@ -4,7 +4,7 @@ document.addEventListener('DOMContentLoaded', function () {
     const todayFormatted = today.toISOString().split('T')[0]; // 格式化为YYYY-MM-DD
 
     // 获取今天的比赛数据
-    fetch(`cs2Pro/data/${todayFormatted}-cs2.json`)
+    fetch(`data/${todayFormatted}-cs2.json`)
         .then(response => {
             if (response.status === 404) {
                 return null; // 若没有数据文件，返回 null
