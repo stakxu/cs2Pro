@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
                     <div class="row g-0">
                         <div class="col-md-8">
                             <div class="card-body">
-                                <h5 class="card-title"><a href="https://faceit.com/zh/cs2/room/${match.matchId}">${match.matchId}</a></h5>
+                                <h5 class="card-title"><a href="https://www.faceit.com/zh/cs2/room/${match.matchId}">${match.matchId}</a></h5>
                                 <p class="card-text">创建时间: ${new Date(match.created_at).toLocaleString()}</p>
                                 <p class="card-text">胜负: ${match.i10 === '1' ? '胜利' : '失败'}</p>
                                 <p class="card-text">地图: ${match.i1}</p>
