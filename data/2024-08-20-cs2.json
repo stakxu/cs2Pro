@@ -3503,7 +3503,7 @@
                 "playerId": "82193699-48b6-405e-ab8e-d1a96151ae94"
             },
             "created_at": 1724153409088,
-            "updated_at": 1724153409088,
+            "updated_at": 1724153499426,
             "i31": "11",
             "i30": "149",
             "i33": "4",
@@ -3561,7 +3561,8 @@
             "matchId": "1-c09c1d7b-ad28-4df5-9b87-cc470f54dfe3",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3296"
         },
         {
             "_id": {
