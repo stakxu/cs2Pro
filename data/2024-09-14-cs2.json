@@ -520,7 +520,7 @@
                 "playerId": "e5e8e2a6-d716-4493-b949-e16965f41654"
             },
             "created_at": 1726264789449,
-            "updated_at": 1726264789449,
+            "updated_at": 1726264879739,
             "i10": "1",
             "i13": "13",
             "i15": "0",
@@ -557,7 +557,8 @@
             "matchId": "1-6c0ad216-e67c-4c0d-b43b-12e53699800b",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "4612"
         },
         {
             "_id": {
@@ -896,7 +897,7 @@
                 "playerId": "3751745b-d8ea-484d-8e97-12b5348ff345"
             },
             "created_at": 1726264817436,
-            "updated_at": 1726264817436,
+            "updated_at": 1726264907929,
             "i10": "1",
             "i13": "14",
             "i15": "0",
@@ -933,7 +934,8 @@
             "matchId": "1-791505e5-80c3-4855-bcf2-5d483fcef487",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3680"
         },
         {
             "_id": {
@@ -983,6 +985,51 @@
         }
     ],
     "kRaSnaL": [
+        {
+            "_id": {
+                "matchId": "66e4b7064acd9e000724f377",
+                "playerId": "a1d1b853-0d85-437f-9e21-2e9dea4976f5"
+            },
+            "created_at": 1726265094413,
+            "updated_at": 1726265094413,
+            "i10": "0",
+            "i13": "15",
+            "i15": "0",
+            "i14": "4",
+            "i16": "0",
+            "nickname": "kRaSnaL",
+            "playerId": "a1d1b853-0d85-437f-9e21-2e9dea4976f5",
+            "i40": "1",
+            "i6": "24",
+            "i7": "5",
+            "i8": "18",
+            "i9": "4",
+            "c2": "1.33",
+            "c3": "1.04",
+            "c4": "62",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "4e01e884-18e1-4d55-b22b-f13a59113a8e",
+            "i3": "6",
+            "i4": "4",
+            "i5": "team_tomiko187er",
+            "premade": false,
+            "c5": "10",
+            "bestOf": "2",
+            "competitionId": "e7fbdd9e-4083-46ad-a9f1-2ae6b63536b4",
+            "date": 1726265094000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "be994de3-89c8-4d40-9286-c14035208743",
+            "matchId": "1-5eb262ba-d9b7-4407-9ddf-4b405550cd38",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        },
         {
             "_id": {
                 "matchId": "66e4adf838fe5700072204c3",
@@ -1159,6 +1206,53 @@
             "i18": "13 / 5",
             "i2": "e64b6d73-6313-4527-b313-a852e6368cf2",
             "matchId": "1-889519a5-920f-441f-88cf-5107fee36ac5",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
+    "malbsMd": [
+        {
+            "_id": {
+                "matchId": "66e4bd01de0ff60007f26d47",
+                "playerId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d"
+            },
+            "created_at": 1726266625121,
+            "updated_at": 1726266625121,
+            "i10": "1",
+            "i13": "20",
+            "i15": "0",
+            "i14": "3",
+            "i16": "0",
+            "nickname": "malbsMd",
+            "playerId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d",
+            "i40": "8",
+            "i6": "30",
+            "i7": "6",
+            "i8": "12",
+            "i9": "7",
+            "c2": "2.5",
+            "c3": "1.5",
+            "c4": "67",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d",
+            "i3": "6",
+            "i4": "7",
+            "i5": "team_malbsMd",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1726266624000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_mirage",
+            "i12": "20",
+            "i18": "7 / 13",
+            "i2": "d5c0a65f-2e07-473f-96cb-7fd6304e329d",
+            "matchId": "1-7ea2bb46-e31d-469c-a528-073a04f6652f",
             "matchRound": "1",
             "played": "1",
             "status": "APPLIED"
@@ -1355,6 +1449,52 @@
         }
     ],
     "Perfecto": [
+        {
+            "_id": {
+                "matchId": "66e4bafb4acd9e000724f6f2",
+                "playerId": "9a5ff08b-4b66-4797-998b-d78713979945"
+            },
+            "created_at": 1726266107980,
+            "updated_at": 1726266199193,
+            "i10": "1",
+            "i13": "10",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Perfecto",
+            "playerId": "9a5ff08b-4b66-4797-998b-d78713979945",
+            "i40": "4",
+            "i6": "18",
+            "i7": "4",
+            "i8": "15",
+            "i9": "1",
+            "c2": "1.2",
+            "c3": "0.86",
+            "c4": "56",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "2c6c6b05-beee-4af1-8532-67f1c0b0d66c",
+            "i3": "6",
+            "i4": "7",
+            "i5": "team_gxx-",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726266107000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "21",
+            "i18": "13 / 8",
+            "i2": "2c6c6b05-beee-4af1-8532-67f1c0b0d66c",
+            "matchId": "1-8aba7f1e-3d6b-4cb2-9b44-21138eaef9c7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3399"
+        },
         {
             "_id": {
                 "matchId": "66e4b1f1f974cc00074175fa",
