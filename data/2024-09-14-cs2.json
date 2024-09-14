@@ -1126,6 +1126,51 @@
     "kRaSnaL": [
         {
             "_id": {
+                "matchId": "66e4d5d0f974cc000741901e",
+                "playerId": "a1d1b853-0d85-437f-9e21-2e9dea4976f5"
+            },
+            "created_at": 1726272976984,
+            "updated_at": 1726272976984,
+            "i10": "0",
+            "i13": "12",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "kRaSnaL",
+            "playerId": "a1d1b853-0d85-437f-9e21-2e9dea4976f5",
+            "i40": "3",
+            "i6": "19",
+            "i7": "5",
+            "i8": "16",
+            "i9": "1",
+            "c2": "1.19",
+            "c3": "1",
+            "c4": "63",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "3e96ad48-d280-40fe-b432-743bc6166e6a",
+            "i3": "6",
+            "i4": "0",
+            "i5": "team_bibu_",
+            "premade": false,
+            "c5": "6",
+            "bestOf": "2",
+            "competitionId": "e7fbdd9e-4083-46ad-a9f1-2ae6b63536b4",
+            "date": 1726272976000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "19",
+            "i18": "13 / 6",
+            "i2": "1f2404e0-9dee-4820-9b1a-992a199780de",
+            "matchId": "1-7d47f9f9-9f79-413a-9289-7bcf0eadc85a",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        },
+        {
+            "_id": {
                 "matchId": "66e4cd634acd9e000725046a",
                 "playerId": "a1d1b853-0d85-437f-9e21-2e9dea4976f5"
             },
@@ -2106,7 +2151,7 @@
                 "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2"
             },
             "created_at": 1726272049152,
-            "updated_at": 1726272049152,
+            "updated_at": 1726272141269,
             "i10": "1",
             "i13": "7",
             "i15": "1",
@@ -2143,7 +2188,8 @@
             "matchId": "1-2dc0771a-a3b1-45a7-9248-24f9df6d6dba",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3018"
         },
         {
             "_id": {
