@@ -3208,53 +3208,5 @@
             "status": "APPLIED",
             "elo": "3901"
         }
-    ],
-    "woxic": [
-        {
-            "_id": {
-                "matchId": "66e61e28f974cc000742368b",
-                "playerId": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8"
-            },
-            "created_at": 1726357032548,
-            "updated_at": 1726357122931,
-            "i10": "0",
-            "i13": "13",
-            "i15": "1",
-            "i14": "2",
-            "i16": "0",
-            "nickname": "woxic",
-            "playerId": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8",
-            "i40": "5",
-            "i6": "25",
-            "i7": "6",
-            "i8": "17",
-            "i9": "4",
-            "c2": "1.47",
-            "c3": "1.19",
-            "c4": "52",
-            "c1": "1",
-            "i19": "0",
-            "teamId": "ee1b28f5-d195-4ba4-bc3b-2685ca581d71",
-            "i3": "5",
-            "i4": "3",
-            "i5": "team_23Peace",
-            "premade": false,
-            "c5": "8",
-            "bestOf": "2",
-            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
-            "date": 1726357032000,
-            "game": "cs2",
-            "gameMode": "5v5",
-            "i0": "EU",
-            "i1": "de_dust2",
-            "i12": "21",
-            "i18": "8 / 13",
-            "i2": "6bc22b7b-6163-4a36-8543-bc5030261e26",
-            "matchId": "1-cf099c9e-1cb6-4772-a115-43fae32fd89c",
-            "matchRound": "1",
-            "played": "1",
-            "status": "APPLIED",
-            "elo": "2958"
-        }
     ]
 }
