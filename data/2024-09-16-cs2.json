@@ -2519,6 +2519,53 @@
             "elo": "3759"
         }
     ],
+    "stavnmagi": [
+        {
+            "_id": {
+                "matchId": "66e83a45618d6c0007b0bd33",
+                "playerId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43"
+            },
+            "created_at": 1726495301229,
+            "updated_at": 1726495301229,
+            "i10": "1",
+            "i13": "15",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "stavnmagi",
+            "playerId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43",
+            "i40": "6",
+            "i6": "26",
+            "i7": "7",
+            "i8": "10",
+            "i9": "6",
+            "c2": "2.6",
+            "c3": "1.37",
+            "c4": "58",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "fd08df8e-2ba9-4427-87ab-bc4643ab61ea",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_hans-henrik",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726495299000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "19",
+            "i18": "6 / 13",
+            "i2": "fd08df8e-2ba9-4427-87ab-bc4643ab61ea",
+            "matchId": "1-74435784-2d55-4b49-8066-a6d236c2667a",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "stew": [
         {
             "_id": {
