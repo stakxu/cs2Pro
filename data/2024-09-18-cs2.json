@@ -1599,6 +1599,54 @@
             "elo": "3893"
         }
     ],
+    "woxic": [
+        {
+            "_id": {
+                "matchId": "66e9feb14acd9e000727770e",
+                "playerId": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8"
+            },
+            "created_at": 1726611121655,
+            "updated_at": 1726611212011,
+            "i10": "1",
+            "i13": "14",
+            "i15": "1",
+            "i14": "5",
+            "i16": "1",
+            "nickname": "woxic",
+            "playerId": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8",
+            "i40": "6",
+            "i6": "45",
+            "i7": "5",
+            "i8": "15",
+            "i9": "8",
+            "c2": "3",
+            "c3": "1.55",
+            "c4": "31",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8",
+            "i3": "6",
+            "i4": "6",
+            "i5": "team_woxic",
+            "premade": false,
+            "c5": "16",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726611121000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_vertigo",
+            "i12": "29",
+            "i18": "16 / 13",
+            "i2": "46b85145-031f-4bb2-8f2f-15a4e2ad39a8",
+            "matchId": "1-16f5fd8c-8a62-4769-a7a9-015006905cc2",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2963"
+        }
+    ],
     "YEKINDAR": [
         {
             "_id": {
