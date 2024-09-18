@@ -379,6 +379,54 @@
             "elo": "3734"
         }
     ],
+    "--br0": [
+        {
+            "_id": {
+                "matchId": "66ea1979de0ff60007f4fd91",
+                "playerId": "77ab6707-1c01-4309-ab6a-2e4b6b27053f"
+            },
+            "created_at": 1726617977707,
+            "updated_at": 1726618067966,
+            "i10": "1",
+            "i13": "15",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "--br0",
+            "playerId": "77ab6707-1c01-4309-ab6a-2e4b6b27053f",
+            "i40": "6",
+            "i6": "22",
+            "i7": "7",
+            "i8": "12",
+            "i9": "2",
+            "c2": "1.83",
+            "c3": "1.05",
+            "c4": "68",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "95be4a93-a3a3-4f05-a076-7077f86cb047",
+            "i3": "8",
+            "i4": "5",
+            "i5": "team_SENER1",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726617976000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "21",
+            "i18": "8 / 13",
+            "i2": "95be4a93-a3a3-4f05-a076-7077f86cb047",
+            "matchId": "1-f5f7f974-4d0f-48e4-9012-82e03ce274d9",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3725"
+        }
+    ],
     "Brollan": [
         {
             "_id": {
@@ -1549,6 +1597,54 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "3740"
+        }
+    ],
+    "stew": [
+        {
+            "_id": {
+                "matchId": "66ea19dede0ff60007f4fdbc",
+                "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2"
+            },
+            "created_at": 1726618078741,
+            "updated_at": 1726618168588,
+            "i10": "0",
+            "i13": "11",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "stew",
+            "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2",
+            "i40": "2",
+            "i6": "14",
+            "i7": "6",
+            "i8": "20",
+            "i9": "1",
+            "c2": "0.7",
+            "c3": "0.58",
+            "c4": "79",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "2b53ccc1-c94c-4bc6-8225-4a08088ed5d5",
+            "i3": "4",
+            "i4": "7",
+            "i5": "team_PwnAlone",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1726618077000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_ancient",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "5f41377e-cf33-4869-9450-5692374c0149",
+            "matchId": "1-f0a141da-d233-4856-bfb9-ae6eac63f607",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2834"
         }
     ],
     "teses": [
