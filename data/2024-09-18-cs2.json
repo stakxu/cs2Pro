@@ -93,6 +93,54 @@
             "elo": "3825"
         }
     ],
+    "allee-": [
+        {
+            "_id": {
+                "matchId": "66ea114a618d6c0007b1af29",
+                "playerId": "5b4b2a12-8b68-4eb0-8118-7d182a3a970e"
+            },
+            "created_at": 1726615883001,
+            "updated_at": 1726615972842,
+            "i10": "1",
+            "i13": "8",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "allee-",
+            "playerId": "5b4b2a12-8b68-4eb0-8118-7d182a3a970e",
+            "i40": "2",
+            "i6": "10",
+            "i7": "6",
+            "i8": "14",
+            "i9": "1",
+            "c2": "0.71",
+            "c3": "0.56",
+            "c4": "80",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "681b9e58-9014-43c6-805f-a401829c367b",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_joeyshayne",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726615881000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "18",
+            "i18": "13 / 5",
+            "i2": "681b9e58-9014-43c6-805f-a401829c367b",
+            "matchId": "1-135ebeda-aac6-4adc-a30c-15ada1273557",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3038"
+        }
+    ],
     "apEX": [
         {
             "_id": {
