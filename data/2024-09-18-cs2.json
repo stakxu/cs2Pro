@@ -329,6 +329,53 @@
             "elo": "3332"
         }
     ],
+    "bizinha": [
+        {
+            "_id": {
+                "matchId": "66ea48f038fe57000724ab35",
+                "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19"
+            },
+            "created_at": 1726630129019,
+            "updated_at": 1726630129019,
+            "i10": "0",
+            "i13": "17",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "bizinha",
+            "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19",
+            "i40": "3",
+            "i6": "23",
+            "i7": "6",
+            "i8": "21",
+            "i9": "3",
+            "c2": "1.1",
+            "c3": "0.82",
+            "c4": "74",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "dbc62b13-80f6-4baf-9a80-0812ebb82bc3",
+            "i3": "8",
+            "i4": "4",
+            "i5": "team_Ceruttera",
+            "premade": false,
+            "c5": "12",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1726630128000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_ancient",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "dcdd41e9-8c0f-4929-8030-b529f8076661",
+            "matchId": "1-3cf5c7cd-4d5d-4bec-acc9-0ed0f2b9459a",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "blameF": [
         {
             "_id": {
