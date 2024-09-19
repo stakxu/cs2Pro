@@ -2622,7 +2622,7 @@
                 "playerId": "ecd004fa-0215-4a42-965b-07ebefd69f0c"
             },
             "created_at": 1726731068528,
-            "updated_at": 1726731068528,
+            "updated_at": 1726731159772,
             "i10": "1",
             "i13": "13",
             "i15": "0",
@@ -2659,7 +2659,8 @@
             "matchId": "1-c5b5bb8d-5cef-465a-9a21-f452d1a9784f",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "2952"
         }
     ],
     "Spinx": [
