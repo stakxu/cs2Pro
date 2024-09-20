@@ -419,6 +419,54 @@
             "elo": "3332"
         }
     ],
+    "--br0": [
+        {
+            "_id": {
+                "matchId": "66ed7f8a38fe57000725e175",
+                "playerId": "77ab6707-1c01-4309-ab6a-2e4b6b27053f"
+            },
+            "created_at": 1726840714981,
+            "updated_at": 1726840806501,
+            "i10": "0",
+            "i13": "12",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "--br0",
+            "playerId": "77ab6707-1c01-4309-ab6a-2e4b6b27053f",
+            "i40": "4",
+            "i6": "19",
+            "i7": "4",
+            "i8": "19",
+            "i9": "1",
+            "c2": "1",
+            "c3": "0.79",
+            "c4": "63",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "95be4a93-a3a3-4f05-a076-7077f86cb047",
+            "i3": "5",
+            "i4": "6",
+            "i5": "team_SENER1",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726840714000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "defccfc4-ddf1-4aee-b441-51adf7306f37",
+            "matchId": "1-a47472a9-8368-4710-817f-d3f31d7ea906",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3583"
+        }
+    ],
     "Brollan": [
         {
             "_id": {
@@ -1776,7 +1824,7 @@
                 "playerId": "a6e8dc26-039b-4c8e-96d6-94dcd6b273e9"
             },
             "created_at": 1726839069766,
-            "updated_at": 1726839069766,
+            "updated_at": 1726839160572,
             "i10": "0",
             "i13": "14",
             "i15": "0",
@@ -1813,7 +1861,8 @@
             "matchId": "1-d8dbe03c-c4c8-4c54-95f5-06d43ffaed23",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3752"
         }
     ],
     "stew": [
@@ -2187,6 +2236,52 @@
         }
     ],
     "torzsi": [
+        {
+            "_id": {
+                "matchId": "66ed7b89de0ff60007f64031",
+                "playerId": "21ee0d80-64f6-4277-80b9-c734d92a2880"
+            },
+            "created_at": 1726839689445,
+            "updated_at": 1726839779629,
+            "i10": "0",
+            "i13": "9",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "torzsi",
+            "playerId": "21ee0d80-64f6-4277-80b9-c734d92a2880",
+            "i40": "1",
+            "i6": "16",
+            "i7": "4",
+            "i8": "16",
+            "i9": "2",
+            "c2": "1",
+            "c3": "0.84",
+            "c4": "56",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "5c34ae07-8986-4c15-a53d-a7bb93cae477",
+            "i3": "3",
+            "i4": "3",
+            "i5": "team_xavii-",
+            "premade": false,
+            "c5": "6",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1726839689000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "19",
+            "i18": "13 / 6",
+            "i2": "ee9a30c1-a33d-4a3a-908d-3efa40a19af8",
+            "matchId": "1-d1889ea0-445e-4034-a683-8af5e5eff0cb",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3961"
+        },
         {
             "_id": {
                 "matchId": "66ed7175f974cc00074549f2",
