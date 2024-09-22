@@ -47,6 +47,54 @@
             "elo": "3180"
         }
     ],
+    "DemQQ-": [
+        {
+            "_id": {
+                "matchId": "66f075ce38fe570007277516",
+                "playerId": "0eefcb0b-1904-42ef-89ec-f6bb8887161f"
+            },
+            "created_at": 1727034831216,
+            "updated_at": 1727034922293,
+            "i10": "1",
+            "i13": "8",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "DemQQ-",
+            "playerId": "0eefcb0b-1904-42ef-89ec-f6bb8887161f",
+            "i40": "2",
+            "i6": "14",
+            "i7": "8",
+            "i8": "17",
+            "i9": "1",
+            "c2": "0.82",
+            "c3": "0.61",
+            "c4": "57",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "94c2c67a-0b44-430b-bf96-043f51191fb3",
+            "i3": "8",
+            "i4": "5",
+            "i5": "team_ztr",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727034830000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "94c2c67a-0b44-430b-bf96-043f51191fb3",
+            "matchId": "1-2b26ef2d-696d-4a8c-a7c2-9e05193d9e08",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3331"
+        }
+    ],
     "kyxsan": [
         {
             "_id": {
@@ -187,6 +235,53 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "3399"
+        }
+    ],
+    "oSee": [
+        {
+            "_id": {
+                "matchId": "66f07669de0ff60007f7d927",
+                "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1"
+            },
+            "created_at": 1727034985731,
+            "updated_at": 1727034985731,
+            "i10": "0",
+            "i13": "9",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "oSee",
+            "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "i40": "2",
+            "i6": "19",
+            "i7": "9",
+            "i8": "18",
+            "i9": "3",
+            "c2": "1.06",
+            "c3": "0.79",
+            "c4": "47",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "d9759c7c-4ae1-4f8d-8967-3bf9e63a7b33",
+            "i3": "5",
+            "i4": "6",
+            "i5": "NRG",
+            "premade": true,
+            "c5": "11",
+            "bestOf": "3",
+            "competitionId": "d0298ad1-00d0-4683-96bd-4225c8c30f20",
+            "date": 1727034985000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_dust2",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "0a4cb10f-74e7-452d-bf18-2cffad97472e",
+            "matchId": "1-7099b916-50bd-41c1-8fa3-45e408bbd5c7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
         }
     ],
     "teses": [
