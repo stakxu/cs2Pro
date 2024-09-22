@@ -513,6 +513,54 @@
             "elo": "3383"
         }
     ],
+    "degst3r": [
+        {
+            "_id": {
+                "matchId": "66f02b97de0ff60007f79d58",
+                "playerId": "e0f4debc-ed3b-4936-85ea-1fbbb334e136"
+            },
+            "created_at": 1727015831803,
+            "updated_at": 1727015922703,
+            "i10": "0",
+            "i13": "11",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "degst3r",
+            "playerId": "e0f4debc-ed3b-4936-85ea-1fbbb334e136",
+            "i40": "3",
+            "i6": "24",
+            "i7": "3",
+            "i8": "18",
+            "i9": "4",
+            "c2": "1.33",
+            "c3": "1",
+            "c4": "46",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "2e27b493-2e1b-4e05-a8be-6e46cfbe977d",
+            "i3": "5",
+            "i4": "6",
+            "i5": "team_Stratera-",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727015831000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "7f63351b-c476-4031-9a49-41d890bfad3b",
+            "matchId": "1-e0987525-8a24-4122-aba6-107d66f9ee69",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3159"
+        }
+    ],
     "donk666": [
         {
             "_id": {
@@ -2562,6 +2610,52 @@
         }
     ],
     "ZywOo": [
+        {
+            "_id": {
+                "matchId": "66f02fc14acd9e00072a209e",
+                "playerId": "3b536dda-e3dd-40cd-baed-7e66ab050c8f"
+            },
+            "created_at": 1727016897872,
+            "updated_at": 1727016986187,
+            "i10": "1",
+            "i13": "24",
+            "i15": "2",
+            "i14": "3",
+            "i16": "0",
+            "nickname": "ZywOo",
+            "playerId": "3b536dda-e3dd-40cd-baed-7e66ab050c8f",
+            "i40": "8",
+            "i6": "40",
+            "i7": "9",
+            "i8": "20",
+            "i9": "7",
+            "c2": "2",
+            "c3": "1.38",
+            "c4": "60",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "5360c69b-3a71-4c48-a3ac-1e43c3cb4908",
+            "i3": "5",
+            "i4": "7",
+            "i5": "team_fariSSSS",
+            "premade": false,
+            "c5": "16",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727016895000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "29",
+            "i18": "13 / 16",
+            "i2": "5360c69b-3a71-4c48-a3ac-1e43c3cb4908",
+            "matchId": "1-451b53d1-e062-4a36-a749-6d9fe68684b7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3887"
+        },
         {
             "_id": {
                 "matchId": "66f0209a618d6c0007b443c9",
