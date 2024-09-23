@@ -553,6 +553,54 @@
             "elo": "3332"
         }
     ],
+    "bizinha": [
+        {
+            "_id": {
+                "matchId": "66f1de1438fe570007281eb7",
+                "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19"
+            },
+            "created_at": 1727127060452,
+            "updated_at": 1727127150855,
+            "i10": "1",
+            "i13": "10",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "bizinha",
+            "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19",
+            "i40": "4",
+            "i6": "16",
+            "i7": "6",
+            "i8": "15",
+            "i9": "1",
+            "c2": "1.07",
+            "c3": "0.73",
+            "c4": "62",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "de8b1d6f-87fc-4844-9b8e-0a7e1b8ca9e4",
+            "i3": "6",
+            "i4": "7",
+            "i5": "team_vznnnnn-",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1727127059000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_anubis",
+            "i12": "22",
+            "i18": "9 / 13",
+            "i2": "de8b1d6f-87fc-4844-9b8e-0a7e1b8ca9e4",
+            "matchId": "1-2553f81a-1bd0-4e56-826b-9ca16a9e9961",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2443"
+        }
+    ],
     "blameF": [
         {
             "_id": {
@@ -1346,6 +1394,52 @@
     "flameZ-": [
         {
             "_id": {
+                "matchId": "66f1e2624acd9e00072b04cd",
+                "playerId": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2"
+            },
+            "created_at": 1727128163325,
+            "updated_at": 1727128253884,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "flameZ-",
+            "playerId": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2",
+            "i40": "2",
+            "i6": "10",
+            "i7": "4",
+            "i8": "16",
+            "i9": "1",
+            "c2": "0.62",
+            "c3": "0.5",
+            "c4": "70",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "b0ee1f18-598b-4f15-89d5-99b614cc93b0",
+            "i3": "6",
+            "i4": "1",
+            "i5": "team_Malkiss",
+            "premade": false,
+            "c5": "7",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727128161000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "20",
+            "i18": "7 / 13",
+            "i2": "95be4a93-a3a3-4f05-a076-7077f86cb047",
+            "matchId": "1-a7eab9a0-15e3-44a0-bf0d-8414b73875d7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3692"
+        },
+        {
+            "_id": {
                 "matchId": "66f1d7f1f974cc00074787da",
                 "playerId": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2"
             },
@@ -2044,6 +2138,52 @@
     "kyxsan": [
         {
             "_id": {
+                "matchId": "66f1e2b54acd9e00072b050f",
+                "playerId": "943d03c7-9278-4add-8675-145f90373e28"
+            },
+            "created_at": 1727128245573,
+            "updated_at": 1727128336054,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "kyxsan",
+            "playerId": "943d03c7-9278-4add-8675-145f90373e28",
+            "i40": "1",
+            "i6": "11",
+            "i7": "4",
+            "i8": "14",
+            "i9": "0",
+            "c2": "0.79",
+            "c3": "0.65",
+            "c4": "64",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "8b1eaec2-1435-4a6e-8172-52bbdd0d76ac",
+            "i3": "1",
+            "i4": "3",
+            "i5": "team_xicoz",
+            "premade": false,
+            "c5": "4",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727128245000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "17",
+            "i18": "13 / 4",
+            "i2": "be9ba5e3-c80e-405c-93b9-2884f7f70d44",
+            "matchId": "1-d5a3ee40-7d9d-4178-b437-fc349f905657",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3634"
+        },
+        {
+            "_id": {
                 "matchId": "66f1d63b618d6c0007b529f3",
                 "playerId": "943d03c7-9278-4add-8675-145f90373e28"
             },
@@ -2280,7 +2420,7 @@
                 "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed"
             },
             "created_at": 1727127002153,
-            "updated_at": 1727127002153,
+            "updated_at": 1727127091939,
             "i10": "0",
             "i13": "5",
             "i15": "0",
@@ -2317,7 +2457,8 @@
             "matchId": "1-63b00e69-1d03-405b-acfb-87b40e81e913",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "4525"
         },
         {
             "_id": {
@@ -2364,6 +2505,54 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "4557"
+        }
+    ],
+    "malbsMd": [
+        {
+            "_id": {
+                "matchId": "66f1e21fde0ff60007f88551",
+                "playerId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d"
+            },
+            "created_at": 1727128095518,
+            "updated_at": 1727128185687,
+            "i10": "0",
+            "i13": "23",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "malbsMd",
+            "playerId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d",
+            "i40": "9",
+            "i6": "32",
+            "i7": "2",
+            "i8": "17",
+            "i9": "3",
+            "c2": "1.88",
+            "c3": "1.39",
+            "c4": "72",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "30659904-8cda-4cb6-83da-6c8531b99416",
+            "i3": "6",
+            "i4": "4",
+            "i5": "team_-AnTy",
+            "premade": false,
+            "c5": "10",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1727128094000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_ancient",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "4073c8c4-b6cc-4c9b-851b-872854743aab",
+            "matchId": "1-ba3ec035-154f-49ea-9b49-518a99da8af6",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3600"
         }
     ],
     "niko": [
