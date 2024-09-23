@@ -521,6 +521,54 @@
             "elo": "3331"
         }
     ],
+    "hobbitzce": [
+        {
+            "_id": {
+                "matchId": "66f164fdf974cc0007473267",
+                "playerId": "0eb41c28-06d2-4351-8311-c7af9f792d13"
+            },
+            "created_at": 1727096061899,
+            "updated_at": 1727096154304,
+            "i10": "1",
+            "i13": "6",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "hobbitzce",
+            "playerId": "0eb41c28-06d2-4351-8311-c7af9f792d13",
+            "i40": "3",
+            "i6": "15",
+            "i7": "0",
+            "i8": "7",
+            "i9": "2",
+            "c2": "2.14",
+            "c3": "0.88",
+            "c4": "40",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "b6b8c887-54ea-483e-bbcc-e64663c883db",
+            "i3": "8",
+            "i4": "5",
+            "i5": "team_cronuss",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727096061000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "b6b8c887-54ea-483e-bbcc-e64663c883db",
+            "matchId": "1-ff6e6aac-b029-4c51-9852-bffd42c209f0",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3119"
+        }
+    ],
     "TimingIsAll": [
         {
             "_id": {
