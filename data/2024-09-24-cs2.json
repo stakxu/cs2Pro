@@ -321,6 +321,54 @@
             "elo": "3138"
         }
     ],
+    "allu": [
+        {
+            "_id": {
+                "matchId": "66f274764acd9e00072b29ad",
+                "playerId": "1fea6910-19b9-43d3-aac2-c612b1d95b08"
+            },
+            "created_at": 1727165558431,
+            "updated_at": 1727165651454,
+            "i10": "0",
+            "i13": "5",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "allu",
+            "playerId": "1fea6910-19b9-43d3-aac2-c612b1d95b08",
+            "i40": "3",
+            "i6": "14",
+            "i7": "6",
+            "i8": "18",
+            "i9": "1",
+            "c2": "0.78",
+            "c3": "0.58",
+            "c4": "36",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "f92e9ceb-8521-4d0b-bf0f-08b4146460c5",
+            "i3": "7",
+            "i4": "4",
+            "i5": "team_julbertos8d",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727165557000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_inferno",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "56fb934a-a539-477e-a9af-aa485f807183",
+            "matchId": "1-2a5fe6b1-1666-45ca-bc85-1e1e341dcd14",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3136"
+        }
+    ],
     "apEX": [
         {
             "_id": {
@@ -1162,6 +1210,52 @@
         }
     ],
     "Brollan": [
+        {
+            "_id": {
+                "matchId": "66f27698618d6c0007b55895",
+                "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb"
+            },
+            "created_at": 1727166104968,
+            "updated_at": 1727166189868,
+            "i10": "1",
+            "i13": "13",
+            "i15": "0",
+            "i14": "4",
+            "i16": "0",
+            "nickname": "Brollan",
+            "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i40": "4",
+            "i6": "26",
+            "i7": "7",
+            "i8": "17",
+            "i9": "3",
+            "c2": "1.53",
+            "c3": "1.08",
+            "c4": "50",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "bbd698d9-e04c-40f2-b912-c47d40b835df",
+            "i3": "4",
+            "i4": "9",
+            "i5": "team_seikee",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727166099000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "bbd698d9-e04c-40f2-b912-c47d40b835df",
+            "matchId": "1-e09a7421-cc5f-4e7b-b9d2-600c3197febf",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3801"
+        },
         {
             "_id": {
                 "matchId": "66f26af138fe570007284561",
