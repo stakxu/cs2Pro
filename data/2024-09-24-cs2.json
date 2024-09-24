@@ -3347,6 +3347,54 @@
             "elo": "3375"
         }
     ],
+    "oSee": [
+        {
+            "_id": {
+                "matchId": "66f22fd0618d6c0007b54f70",
+                "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1"
+            },
+            "created_at": 1727147984645,
+            "updated_at": 1727148075296,
+            "i10": "0",
+            "i13": "13",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "oSee",
+            "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "i40": "2",
+            "i6": "21",
+            "i7": "8",
+            "i8": "16",
+            "i9": "3",
+            "c2": "1.31",
+            "c3": "0.88",
+            "c4": "62",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "i3": "5",
+            "i4": "6",
+            "i5": "team_oSee",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1727147984000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_ancient",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "63b398c7-e8a7-44d0-8d49-037a60349bda",
+            "matchId": "1-40259bd1-436f-4f8d-b3d1-873d732ce1ed",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3628"
+        }
+    ],
     "Perfecto": [
         {
             "_id": {
@@ -4090,6 +4138,52 @@
         }
     ],
     "stew": [
+        {
+            "_id": {
+                "matchId": "66f231aef974cc000747ac54",
+                "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2"
+            },
+            "created_at": 1727148463085,
+            "updated_at": 1727148557779,
+            "i10": "0",
+            "i13": "12",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "stew",
+            "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2",
+            "i40": "2",
+            "i6": "16",
+            "i7": "7",
+            "i8": "19",
+            "i9": "2",
+            "c2": "0.84",
+            "c3": "0.67",
+            "c4": "75",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "d4c064be-3972-4539-ac46-e2de98d8d643",
+            "i3": "3",
+            "i4": "8",
+            "i5": "team_Cooper",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1727148462000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_anubis",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "dce6aeea-1bb9-4fe8-866c-2ad18f998e5f",
+            "matchId": "1-85863010-2165-4c49-afe4-df4b05b07208",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2881"
+        },
         {
             "_id": {
                 "matchId": "66f2255af974cc000747aa50",
