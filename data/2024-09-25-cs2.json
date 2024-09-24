@@ -278,6 +278,54 @@
             "elo": "2912"
         }
     ],
+    "Brollan": [
+        {
+            "_id": {
+                "matchId": "66f32476618d6c0007b5bdec",
+                "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb"
+            },
+            "created_at": 1727210615341,
+            "updated_at": 1727210704990,
+            "i10": "1",
+            "i13": "11",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "Brollan",
+            "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i40": "3",
+            "i6": "19",
+            "i7": "6",
+            "i8": "10",
+            "i9": "4",
+            "c2": "1.9",
+            "c3": "1.06",
+            "c4": "58",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i3": "11",
+            "i4": "2",
+            "i5": "team_Brollan",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727210614000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "18",
+            "i18": "13 / 5",
+            "i2": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "matchId": "1-46ccd57d-9344-4eda-82e2-8ec3b6a333b4",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3822"
+        }
+    ],
     "Buzz": [
         {
             "_id": {
@@ -2113,6 +2161,52 @@
         }
     ],
     "Spinx": [
+        {
+            "_id": {
+                "matchId": "66f327e838fe57000728b111",
+                "playerId": "a6e8dc26-039b-4c8e-96d6-94dcd6b273e9"
+            },
+            "created_at": 1727211496847,
+            "updated_at": 1727211587272,
+            "i10": "1",
+            "i13": "5",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "Spinx",
+            "playerId": "a6e8dc26-039b-4c8e-96d6-94dcd6b273e9",
+            "i40": "2",
+            "i6": "17",
+            "i7": "7",
+            "i8": "12",
+            "i9": "1",
+            "c2": "1.42",
+            "c3": "0.81",
+            "c4": "29",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "42bed9c7-a443-4fec-a887-35dbb4be6b05",
+            "i3": "7",
+            "i4": "6",
+            "i5": "team_meztal",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727211496000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "21",
+            "i18": "8 / 13",
+            "i2": "42bed9c7-a443-4fec-a887-35dbb4be6b05",
+            "matchId": "1-7e0075d0-b40a-41b5-acab-9912953d6c1e",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3844"
+        },
         {
             "_id": {
                 "matchId": "66f31b0b4acd9e00072b875e",
