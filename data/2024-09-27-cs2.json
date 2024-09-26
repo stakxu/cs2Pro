@@ -47,6 +47,53 @@
             "elo": "3865"
         }
     ],
+    "apEX": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "de21905f-47e9-46c2-bfd2-e56f63795c87"
+            },
+            "created_at": 1727380526107,
+            "updated_at": 1727380526107,
+            "i10": "1",
+            "i13": "1",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "apEX",
+            "playerId": "de21905f-47e9-46c2-bfd2-e56f63795c87",
+            "i40": "2",
+            "i6": "8",
+            "i7": "12",
+            "i8": "21",
+            "i9": "2",
+            "c2": "0.38",
+            "c3": "0.29",
+            "c4": "12",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "i3": "5",
+            "i4": "7",
+            "i5": "Vitality",
+            "premade": true,
+            "c5": "16",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "Boombl4": [
         {
             "_id": {
@@ -648,6 +695,53 @@
             "status": "APPLIED"
         }
     ],
+    "flameZ-": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2"
+            },
+            "created_at": 1727380526105,
+            "updated_at": 1727380526105,
+            "i10": "1",
+            "i13": "13",
+            "i15": "1",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "flameZ-",
+            "playerId": "54278d39-3bdd-4ae7-8c4b-feb0adb3bee2",
+            "i40": "2",
+            "i6": "22",
+            "i7": "6",
+            "i8": "20",
+            "i9": "2",
+            "c2": "1.1",
+            "c3": "0.79",
+            "c4": "59",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "i3": "5",
+            "i4": "7",
+            "i5": "Vitality",
+            "premade": true,
+            "c5": "16",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "headtr1ck": [
         {
             "_id": {
@@ -922,6 +1016,53 @@
             "status": "APPLIED"
         }
     ],
+    "jks": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "9a8ea9d5-61c7-4b38-b64f-35f4945048fa"
+            },
+            "created_at": 1727380526097,
+            "updated_at": 1727380526097,
+            "i10": "0",
+            "i13": "12",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "jks",
+            "playerId": "9a8ea9d5-61c7-4b38-b64f-35f4945048fa",
+            "i40": "3",
+            "i6": "17",
+            "i7": "9",
+            "i8": "22",
+            "i9": "2",
+            "c2": "0.77",
+            "c3": "0.61",
+            "c4": "71",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "541bea97-3c5a-4f2f-a532-90cccca0b5b0",
+            "i3": "7",
+            "i4": "5",
+            "i5": "Liquid",
+            "premade": true,
+            "c5": "12",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "JW": [
         {
             "_id": {
@@ -964,6 +1105,53 @@
             "i18": "13 / 7",
             "i2": "3d2bdc4e-007f-4d48-a3ae-5d94c57867cb",
             "matchId": "1-5dc6f614-042b-4a2f-8311-cf58190e6f89",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
+    "mezii--": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "58f68286-29eb-4108-97e5-2d8d96c65e05"
+            },
+            "created_at": 1727380526103,
+            "updated_at": 1727380526103,
+            "i10": "1",
+            "i13": "8",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "mezii--",
+            "playerId": "58f68286-29eb-4108-97e5-2d8d96c65e05",
+            "i40": "2",
+            "i6": "15",
+            "i7": "4",
+            "i8": "17",
+            "i9": "1",
+            "c2": "0.88",
+            "c3": "0.54",
+            "c4": "53",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "i3": "5",
+            "i4": "7",
+            "i5": "Vitality",
+            "premade": true,
+            "c5": "16",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
             "matchRound": "1",
             "played": "1",
             "status": "APPLIED"
@@ -1337,6 +1525,53 @@
             "elo": "3168"
         }
     ],
+    "Spinx": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "a6e8dc26-039b-4c8e-96d6-94dcd6b273e9"
+            },
+            "created_at": 1727380526108,
+            "updated_at": 1727380526108,
+            "i10": "1",
+            "i13": "19",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "Spinx",
+            "playerId": "a6e8dc26-039b-4c8e-96d6-94dcd6b273e9",
+            "i40": "6",
+            "i6": "26",
+            "i7": "5",
+            "i8": "15",
+            "i9": "5",
+            "c2": "1.73",
+            "c3": "0.93",
+            "c4": "73",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "i3": "5",
+            "i4": "7",
+            "i5": "Vitality",
+            "premade": true,
+            "c5": "16",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "-Staehr-": [
         {
             "_id": {
@@ -1705,6 +1940,53 @@
             "elo": "3448"
         }
     ],
+    "Twistzz": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "a51c1404-1c5e-4688-b82c-ade59245e5b1"
+            },
+            "created_at": 1727380526102,
+            "updated_at": 1727380526102,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "Twistzz",
+            "playerId": "a51c1404-1c5e-4688-b82c-ade59245e5b1",
+            "i40": "2",
+            "i6": "15",
+            "i7": "9",
+            "i8": "20",
+            "i9": "2",
+            "c2": "0.75",
+            "c3": "0.54",
+            "c4": "47",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "541bea97-3c5a-4f2f-a532-90cccca0b5b0",
+            "i3": "7",
+            "i4": "5",
+            "i5": "Liquid",
+            "premade": true,
+            "c5": "12",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "w0nderful": [
         {
             "_id": {
@@ -1751,6 +2033,100 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "3941"
+        }
+    ],
+    "YEKINDAR": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b"
+            },
+            "created_at": 1727380526099,
+            "updated_at": 1727380526099,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "YEKINDAR",
+            "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b",
+            "i40": "0",
+            "i6": "10",
+            "i7": "9",
+            "i8": "22",
+            "i9": "2",
+            "c2": "0.45",
+            "c3": "0.36",
+            "c4": "70",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "541bea97-3c5a-4f2f-a532-90cccca0b5b0",
+            "i3": "7",
+            "i4": "5",
+            "i5": "Liquid",
+            "premade": true,
+            "c5": "12",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
+    "ZywOo": [
+        {
+            "_id": {
+                "matchId": "66f5bc2d38fe57000729c952",
+                "playerId": "3b536dda-e3dd-40cd-baed-7e66ab050c8f"
+            },
+            "created_at": 1727380526104,
+            "updated_at": 1727380526104,
+            "i10": "1",
+            "i13": "12",
+            "i15": "0",
+            "i14": "4",
+            "i16": "0",
+            "nickname": "ZywOo",
+            "playerId": "3b536dda-e3dd-40cd-baed-7e66ab050c8f",
+            "i40": "4",
+            "i6": "27",
+            "i7": "9",
+            "i8": "15",
+            "i9": "6",
+            "c2": "1.8",
+            "c3": "0.96",
+            "c4": "44",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "i3": "5",
+            "i4": "7",
+            "i5": "Vitality",
+            "premade": true,
+            "c5": "16",
+            "bestOf": "3",
+            "competitionId": "941126fb-4ae0-42f6-8453-0bc37596c3d6",
+            "date": 1727380525000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_anubis",
+            "i12": "28",
+            "i18": "12 / 16",
+            "i2": "00ed7396-eeb5-4ac6-a779-531fb6bfdfdb",
+            "matchId": "1-93bea12d-29c5-4bd4-be0e-9559f8a2c18d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "PENDING"
         }
     ]
 }
