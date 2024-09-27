@@ -282,6 +282,54 @@
             "elo": "3452"
         }
     ],
+    "s1mple": [
+        {
+            "_id": {
+                "matchId": "66f6de7af974cc0007499d12",
+                "playerId": "ac71ba3c-d3d4-45e7-8be2-26aa3986867d"
+            },
+            "created_at": 1727454842995,
+            "updated_at": 1727454933579,
+            "i10": "0",
+            "i13": "12",
+            "i15": "2",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "s1mple",
+            "playerId": "ac71ba3c-d3d4-45e7-8be2-26aa3986867d",
+            "i40": "0",
+            "i6": "19",
+            "i7": "3",
+            "i8": "18",
+            "i9": "3",
+            "c2": "1.06",
+            "c3": "0.79",
+            "c4": "63",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "70eb0850-db33-4a58-917b-c9fde9163f5a",
+            "i3": "5",
+            "i4": "6",
+            "i5": "team_kory-",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727454842000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "05090c21-566f-40fd-ae34-3146418f6ec9",
+            "matchId": "1-1b600f23-c416-429c-b45f-53893e7b592e",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3613"
+        }
+    ],
     "sh1ro": [
         {
             "_id": {
