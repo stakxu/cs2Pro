@@ -1,4 +1,52 @@
 {
+    "hades--": [
+        {
+            "_id": {
+                "matchId": "66f708d538fe5700072a5c72",
+                "playerId": "37ee857f-a8c3-45c3-a6dc-4c254f77668b"
+            },
+            "created_at": 1727465685573,
+            "updated_at": 1727465776065,
+            "i10": "1",
+            "i13": "4",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "hades--",
+            "playerId": "37ee857f-a8c3-45c3-a6dc-4c254f77668b",
+            "i40": "1",
+            "i6": "13",
+            "i7": "3",
+            "i8": "13",
+            "i9": "2",
+            "c2": "1",
+            "c3": "0.57",
+            "c4": "31",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "37ee857f-a8c3-45c3-a6dc-4c254f77668b",
+            "i3": "7",
+            "i4": "6",
+            "i5": "team_hades--",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727465685000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "37ee857f-a8c3-45c3-a6dc-4c254f77668b",
+            "matchId": "1-7f4a1e05-0450-492a-b8da-58a7544d50a7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3948"
+        }
+    ],
     "brokyy": [
         {
             "_id": {
@@ -553,6 +601,54 @@
             "matchRound": "1",
             "played": "1",
             "status": "APPLIED"
+        }
+    ],
+    "kyxsan": [
+        {
+            "_id": {
+                "matchId": "66f70b6e4acd9e00072d3ee2",
+                "playerId": "943d03c7-9278-4add-8675-145f90373e28"
+            },
+            "created_at": 1727466350845,
+            "updated_at": 1727466441494,
+            "i10": "1",
+            "i13": "7",
+            "i15": "1",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "kyxsan",
+            "playerId": "943d03c7-9278-4add-8675-145f90373e28",
+            "i40": "2",
+            "i6": "13",
+            "i7": "6",
+            "i8": "13",
+            "i9": "3",
+            "c2": "1",
+            "c3": "0.68",
+            "c4": "54",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "fa055f16-6114-46e9-b3c9-40d2a2263686",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_xicoz",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727466350000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "19",
+            "i18": "6 / 13",
+            "i2": "fa055f16-6114-46e9-b3c9-40d2a2263686",
+            "matchId": "1-79fb43a3-94f1-4888-b102-ff956c52a82f",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3699"
         }
     ],
     "m0NESY": [
