@@ -94,6 +94,54 @@
             "status": "APPLIED"
         }
     ],
+    "bizinha": [
+        {
+            "_id": {
+                "matchId": "66f84109de0ff60007fb5c19",
+                "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19"
+            },
+            "created_at": 1727545609871,
+            "updated_at": 1727545700351,
+            "i10": "1",
+            "i13": "6",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "bizinha",
+            "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19",
+            "i40": "3",
+            "i6": "15",
+            "i7": "7",
+            "i8": "12",
+            "i9": "3",
+            "c2": "1.25",
+            "c3": "0.75",
+            "c4": "40",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "ac4198db-05c1-4ee4-80ed-9108a77287af",
+            "i3": "7",
+            "i4": "6",
+            "i5": "team_Dean100",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1727545609000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_mirage",
+            "i12": "20",
+            "i18": "7 / 13",
+            "i2": "ac4198db-05c1-4ee4-80ed-9108a77287af",
+            "matchId": "1-5b49100a-825c-4dfd-a6e7-1350f45cf1d5",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2389"
+        }
+    ],
     "flameZ-": [
         {
             "_id": {
