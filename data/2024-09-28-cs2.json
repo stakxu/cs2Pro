@@ -608,7 +608,7 @@
                 "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19"
             },
             "created_at": 1727487011100,
-            "updated_at": 1727487011100,
+            "updated_at": 1727487097839,
             "i10": "0",
             "i13": "7",
             "i15": "0",
@@ -645,7 +645,8 @@
             "matchId": "1-c13c0bd6-8f9f-496d-ab7b-b9919611791b",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "2394"
         }
     ],
     "brokyy": [
@@ -1343,6 +1344,52 @@
         }
     ],
     "JW": [
+        {
+            "_id": {
+                "matchId": "66f75cc7f974cc00074a0020",
+                "playerId": "4946fdbd-00e9-4408-91dd-6f3c87c39b23"
+            },
+            "created_at": 1727487176782,
+            "updated_at": 1727487265660,
+            "i10": "0",
+            "i13": "3",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "JW",
+            "playerId": "4946fdbd-00e9-4408-91dd-6f3c87c39b23",
+            "i40": "1",
+            "i6": "9",
+            "i7": "4",
+            "i8": "16",
+            "i9": "1",
+            "c2": "0.56",
+            "c3": "0.41",
+            "c4": "33",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "481e27dd-bb43-467e-adf3-78fa5cdbb97c",
+            "i3": "4",
+            "i4": "5",
+            "i5": "team_6w0w9",
+            "premade": false,
+            "c5": "9",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727487175000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_inferno",
+            "i12": "22",
+            "i18": "13 / 9",
+            "i2": "cdbe0cb7-d658-4712-a3d6-a755771e7b26",
+            "matchId": "1-6dab4ebf-1e6c-4761-820d-17d3a7198a96",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3134"
+        },
         {
             "_id": {
                 "matchId": "66f7532d618d6c0007b7a931",
