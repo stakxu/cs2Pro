@@ -91,6 +91,54 @@
             "status": "APPLIED"
         }
     ],
+    "allee-": [
+        {
+            "_id": {
+                "matchId": "66f9ab30de0ff60007fc3645",
+                "playerId": "5b4b2a12-8b68-4eb0-8118-7d182a3a970e"
+            },
+            "created_at": 1727638320880,
+            "updated_at": 1727638411278,
+            "i10": "0",
+            "i13": "8",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "allee-",
+            "playerId": "5b4b2a12-8b68-4eb0-8118-7d182a3a970e",
+            "i40": "0",
+            "i6": "11",
+            "i7": "5",
+            "i8": "16",
+            "i9": "1",
+            "c2": "0.69",
+            "c3": "0.55",
+            "c4": "73",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "da3362cd-a4cc-4cb5-9df5-abc7c3a37b9c",
+            "i3": "4",
+            "i4": "3",
+            "i5": "team_Zolo-",
+            "premade": false,
+            "c5": "7",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727638320000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_nuke",
+            "i12": "20",
+            "i18": "7 / 13",
+            "i2": "2db4271c-4859-48b3-8b1d-54479022830f",
+            "matchId": "1-79b5c80b-656b-4c57-beab-9d64a8aa6d85",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2900"
+        }
+    ],
     "b1t": [
         {
             "_id": {
