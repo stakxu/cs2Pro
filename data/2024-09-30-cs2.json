@@ -183,6 +183,54 @@
             "status": "APPLIED"
         }
     ],
+    "bizinha": [
+        {
+            "_id": {
+                "matchId": "66f99f93618d6c0007b8d4ae",
+                "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19"
+            },
+            "created_at": 1727635347528,
+            "updated_at": 1727635438049,
+            "i10": "0",
+            "i13": "6",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "bizinha",
+            "playerId": "81b41bac-c9ae-4356-963c-f2585bceab19",
+            "i40": "3",
+            "i6": "9",
+            "i7": "2",
+            "i8": "15",
+            "i9": "1",
+            "c2": "0.6",
+            "c3": "0.53",
+            "c4": "67",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "0789ff20-d059-4fc2-81ee-58071668572d",
+            "i3": "1",
+            "i4": "3",
+            "i5": "team_lulitenz",
+            "premade": false,
+            "c5": "4",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1727635347000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_ancient",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "927ea993-fde5-415e-9497-f511b2bb89ca",
+            "matchId": "1-e6735906-0f43-4444-8008-8677cf1fa058",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2363"
+        }
+    ],
     "donk666": [
         {
             "_id": {
@@ -505,6 +553,54 @@
             "matchRound": "3",
             "played": "3",
             "status": "APPLIED"
+        }
+    ],
+    "Izaa": [
+        {
+            "_id": {
+                "matchId": "66f99f93618d6c0007b8d4ae",
+                "playerId": "19bcbb45-eb5c-465b-a11b-dcbf38f7b1ef"
+            },
+            "created_at": 1727635347524,
+            "updated_at": 1727635438484,
+            "i10": "0",
+            "i13": "7",
+            "i15": "1",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Izaa",
+            "playerId": "19bcbb45-eb5c-465b-a11b-dcbf38f7b1ef",
+            "i40": "1",
+            "i6": "9",
+            "i7": "5",
+            "i8": "16",
+            "i9": "0",
+            "c2": "0.56",
+            "c3": "0.53",
+            "c4": "78",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "0789ff20-d059-4fc2-81ee-58071668572d",
+            "i3": "1",
+            "i4": "3",
+            "i5": "team_lulitenz",
+            "premade": false,
+            "c5": "4",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1727635347000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_ancient",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "927ea993-fde5-415e-9497-f511b2bb89ca",
+            "matchId": "1-e6735906-0f43-4444-8008-8677cf1fa058",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2324"
         }
     ],
     "jL-": [
