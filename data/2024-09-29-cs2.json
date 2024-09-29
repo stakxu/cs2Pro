@@ -4817,6 +4817,54 @@
             "elo": "3311"
         }
     ],
+    "YEKINDAR": [
+        {
+            "_id": {
+                "matchId": "66f8d3d5f974cc00074ab6c0",
+                "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b"
+            },
+            "created_at": 1727583189730,
+            "updated_at": 1727583284817,
+            "i10": "0",
+            "i13": "13",
+            "i15": "0",
+            "i14": "3",
+            "i16": "0",
+            "nickname": "YEKINDAR",
+            "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b",
+            "i40": "1",
+            "i6": "19",
+            "i7": "6",
+            "i8": "18",
+            "i9": "2",
+            "c2": "1.06",
+            "c3": "0.9",
+            "c4": "68",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "ba684a2d-e1a3-4a68-9461-3fd61994749b",
+            "i3": "7",
+            "i4": "1",
+            "i5": "team_unxknxvvn",
+            "premade": false,
+            "c5": "8",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727583189000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "21",
+            "i18": "13 / 8",
+            "i2": "840ac5b1-cf1e-4e54-aa54-fbb11bffd146",
+            "matchId": "1-42bb2cf6-0241-4da2-b50a-2de834cedcf6",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3878"
+        }
+    ],
     "ZywOo": [
         {
             "_id": {
