@@ -1076,7 +1076,7 @@
                 "playerId": "e0f4debc-ed3b-4936-85ea-1fbbb334e136"
             },
             "created_at": 1727659831536,
-            "updated_at": 1727659831536,
+            "updated_at": 1727659924525,
             "i10": "1",
             "i13": "12",
             "i15": "2",
@@ -1113,7 +1113,8 @@
             "matchId": "1-897202db-61c6-43f5-aab7-874d15af3cad",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3149"
         }
     ],
     "donk666": [
