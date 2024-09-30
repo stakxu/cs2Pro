@@ -1579,6 +1579,54 @@
             "elo": "4733"
         }
     ],
+    "flusha": [
+        {
+            "_id": {
+                "matchId": "66fa572fde0ff60007fc7d0b",
+                "playerId": "5c90ca92-7ea3-4b0c-b2cb-25edb5c6b77d"
+            },
+            "created_at": 1727682351236,
+            "updated_at": 1727682441572,
+            "i10": "0",
+            "i13": "13",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "flusha",
+            "playerId": "5c90ca92-7ea3-4b0c-b2cb-25edb5c6b77d",
+            "i40": "7",
+            "i6": "28",
+            "i7": "18",
+            "i8": "27",
+            "i9": "4",
+            "c2": "1.04",
+            "c3": "0.78",
+            "c4": "46",
+            "c1": "1",
+            "i19": "5",
+            "teamId": "5c90ca92-7ea3-4b0c-b2cb-25edb5c6b77d",
+            "i3": "4",
+            "i4": "8",
+            "i5": "team_flusha",
+            "premade": false,
+            "c5": "17",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727682350000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "36",
+            "i18": "19 / 17",
+            "i2": "d32dedc5-0ff3-4df2-bab7-5bc6f65d2631",
+            "matchId": "1-1acd6a07-152a-4b47-b5b6-50bd3b73f37d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3539"
+        }
+    ],
     "HooXi": [
         {
             "_id": {
