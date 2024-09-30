@@ -2369,6 +2369,53 @@
             "elo": "2324"
         }
     ],
+    "JamYoung": [
+        {
+            "_id": {
+                "matchId": "66fa9ac724d23a0007376376",
+                "playerId": "775f4105-de70-4d88-ae5d-5ffff72d7bba"
+            },
+            "created_at": 1727699655921,
+            "updated_at": 1727699655921,
+            "i10": "1",
+            "i13": "17",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "JamYoung",
+            "playerId": "775f4105-de70-4d88-ae5d-5ffff72d7bba",
+            "i40": "6",
+            "i6": "19",
+            "i7": "7",
+            "i8": "9",
+            "i9": "3",
+            "c2": "2.11",
+            "c3": "1.06",
+            "c4": "89",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "i3": "10",
+            "i4": "3",
+            "i5": "TYLOO",
+            "premade": true,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "6082a4e6-d547-48e2-a2c2-5240b969e537",
+            "date": 1727699655000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SEA",
+            "i1": "de_mirage",
+            "i12": "18",
+            "i18": "5 / 13",
+            "i2": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "matchId": "1-422c890a-94a6-4cea-af70-657df9c889e7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "jL-": [
         {
             "_id": {
@@ -2877,6 +2924,53 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "3440"
+        }
+    ],
+    "moseyuh": [
+        {
+            "_id": {
+                "matchId": "66fa9ac724d23a0007376376",
+                "playerId": "3504e4fa-8cac-47d8-8530-866c6310cb71"
+            },
+            "created_at": 1727699655923,
+            "updated_at": 1727699655923,
+            "i10": "1",
+            "i13": "9",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "moseyuh",
+            "playerId": "3504e4fa-8cac-47d8-8530-866c6310cb71",
+            "i40": "1",
+            "i6": "11",
+            "i7": "5",
+            "i8": "9",
+            "i9": "4",
+            "c2": "1.22",
+            "c3": "0.61",
+            "c4": "82",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "i3": "10",
+            "i4": "3",
+            "i5": "TYLOO",
+            "premade": true,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "6082a4e6-d547-48e2-a2c2-5240b969e537",
+            "date": 1727699655000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SEA",
+            "i1": "de_mirage",
+            "i12": "18",
+            "i18": "5 / 13",
+            "i2": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "matchId": "1-422c890a-94a6-4cea-af70-657df9c889e7",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
         }
     ],
     "n0rb3r7": [
