@@ -2940,6 +2940,52 @@
     "m0NESY": [
         {
             "_id": {
+                "matchId": "66fb9e595fd238000714f197",
+                "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed"
+            },
+            "created_at": 1727766105320,
+            "updated_at": 1727766196687,
+            "i10": "1",
+            "i13": "27",
+            "i15": "3",
+            "i14": "2",
+            "i16": "1",
+            "nickname": "m0NESY",
+            "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "i40": "7",
+            "i6": "45",
+            "i7": "5",
+            "i8": "16",
+            "i9": "10",
+            "c2": "2.81",
+            "c3": "1.55",
+            "c4": "60",
+            "c1": "1",
+            "i19": "4",
+            "teamId": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "i3": "5",
+            "i4": "7",
+            "i5": "team_m0NESY",
+            "premade": false,
+            "c5": "16",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727766104000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "29",
+            "i18": "13 / 16",
+            "i2": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "matchId": "1-d842e378-f689-45ca-ac84-6ce3385edd84",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "4578"
+        },
+        {
+            "_id": {
                 "matchId": "66fb91da24d23a000737f0f9",
                 "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed"
             },
@@ -3172,6 +3218,52 @@
         }
     ],
     "oSee": [
+        {
+            "_id": {
+                "matchId": "66fb9e685fd238000714f19b",
+                "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1"
+            },
+            "created_at": 1727766120392,
+            "updated_at": 1727766205398,
+            "i10": "1",
+            "i13": "14",
+            "i15": "1",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "oSee",
+            "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "i40": "3",
+            "i6": "23",
+            "i7": "2",
+            "i8": "9",
+            "i9": "4",
+            "c2": "2.56",
+            "c3": "1.35",
+            "c4": "61",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "b077f54e-fbca-41ce-9e80-58b9e2f11495",
+            "i3": "8",
+            "i4": "5",
+            "i5": "team_nitr0",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1727766112000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_mirage",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "b077f54e-fbca-41ce-9e80-58b9e2f11495",
+            "matchId": "1-8e8bd753-bc90-40d3-afed-ffff8b54c322",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3700"
+        },
         {
             "_id": {
                 "matchId": "66fb92abc39dfd0007cbe593",
@@ -4016,7 +4108,7 @@
                 "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2"
             },
             "created_at": 1727766051389,
-            "updated_at": 1727766051389,
+            "updated_at": 1727766151020,
             "i10": "1",
             "i13": "17",
             "i15": "0",
@@ -4053,7 +4145,8 @@
             "matchId": "1-1f005d83-15e4-45c6-9b11-7faba8734493",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3005"
         },
         {
             "_id": {
