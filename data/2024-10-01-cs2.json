@@ -3686,7 +3686,7 @@
                 "playerId": "d5c0a65f-2e07-473f-96cb-7fd6304e329d"
             },
             "created_at": 1727791253686,
-            "updated_at": 1727791253686,
+            "updated_at": 1727791343674,
             "i10": "1",
             "i13": "15",
             "i15": "1",
@@ -3723,7 +3723,8 @@
             "matchId": "1-c87c1ec4-7427-43ea-85fd-f5c32ec58685",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3552"
         }
     ],
     "moseyuh": [
@@ -3873,7 +3874,7 @@
                 "playerId": "19606e0c-137b-4885-a904-744fa12d25f6"
             },
             "created_at": 1727791253684,
-            "updated_at": 1727791253684,
+            "updated_at": 1727791343560,
             "i10": "1",
             "i13": "7",
             "i15": "1",
@@ -3910,7 +3911,8 @@
             "matchId": "1-c87c1ec4-7427-43ea-85fd-f5c32ec58685",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "4225"
         },
         {
             "_id": {
