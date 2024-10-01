@@ -1,4 +1,52 @@
 {
+    "Brollan": [
+        {
+            "_id": {
+                "matchId": "66fc5a0bb8ba620007d72455",
+                "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb"
+            },
+            "created_at": 1727814155589,
+            "updated_at": 1727814246176,
+            "i10": "1",
+            "i13": "16",
+            "i15": "1",
+            "i14": "3",
+            "i16": "1",
+            "nickname": "Brollan",
+            "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i40": "6",
+            "i6": "34",
+            "i7": "5",
+            "i8": "6",
+            "i9": "9",
+            "c2": "5.67",
+            "c3": "1.89",
+            "c4": "47",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "ab2bf7fd-7997-4a7a-9c94-6b7d52ffd200",
+            "i3": "8",
+            "i4": "5",
+            "i5": "team_yxngstxr",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727814155000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_vertigo",
+            "i12": "18",
+            "i18": "13 / 5",
+            "i2": "ab2bf7fd-7997-4a7a-9c94-6b7d52ffd200",
+            "matchId": "1-b651ee6e-3fa0-44c5-ba1a-a3cff8793515",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3942"
+        }
+    ],
     "Buzz": [
         {
             "_id": {
@@ -192,7 +240,7 @@
                 "playerId": "0eefcb0b-1904-42ef-89ec-f6bb8887161f"
             },
             "created_at": 1727812771180,
-            "updated_at": 1727812771180,
+            "updated_at": 1727812861573,
             "i10": "0",
             "i13": "5",
             "i15": "0",
@@ -229,7 +277,8 @@
             "matchId": "1-69bf8b91-fbaf-4e24-850c-81135a227c57",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3336"
         }
     ],
     "device": [
@@ -1214,6 +1263,54 @@
             "played": "1",
             "status": "APPLIED",
             "elo": "3409"
+        }
+    ],
+    "YEKINDAR": [
+        {
+            "_id": {
+                "matchId": "66fc59fbc39dfd0007cc51ca",
+                "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b"
+            },
+            "created_at": 1727814139091,
+            "updated_at": 1727814229501,
+            "i10": "1",
+            "i13": "13",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "YEKINDAR",
+            "playerId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b",
+            "i40": "1",
+            "i6": "17",
+            "i7": "5",
+            "i8": "17",
+            "i9": "1",
+            "c2": "1",
+            "c3": "0.71",
+            "c4": "76",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "3a4f7d12-c754-47e3-98d6-775460e9bb7b",
+            "i3": "6",
+            "i4": "7",
+            "i5": "team_YEKINDAR",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727814138000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "24",
+            "i18": "13 / 11",
+            "i2": "3a4f7d12-c754-47e3-98d6-775460e9bb7b",
+            "matchId": "1-660da17b-51f1-4386-835e-b6badac67e65",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3912"
         }
     ]
 }
