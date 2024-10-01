@@ -2940,11 +2940,57 @@
     "m0NESY": [
         {
             "_id": {
+                "matchId": "66fb7a4bf0c726000699a3f7",
+                "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed"
+            },
+            "created_at": 1727756875784,
+            "updated_at": 1727756963489,
+            "i10": "1",
+            "i13": "22",
+            "i15": "2",
+            "i14": "3",
+            "i16": "0",
+            "nickname": "m0NESY",
+            "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "i40": "5",
+            "i6": "30",
+            "i7": "5",
+            "i8": "6",
+            "i9": "6",
+            "c2": "5",
+            "c3": "1.88",
+            "c4": "73",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "i3": "10",
+            "i4": "3",
+            "i5": "team_m0NESY",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727756872000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "16",
+            "i18": "3 / 13",
+            "i2": "93306681-bce6-4369-8c41-e0bdba2597ed",
+            "matchId": "1-33ba57c9-59a8-41d2-9727-fa08f6f4af96",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "4558"
+        },
+        {
+            "_id": {
                 "matchId": "66fb73fc5fd238000714ebfd",
                 "playerId": "93306681-bce6-4369-8c41-e0bdba2597ed"
             },
             "created_at": 1727755260388,
-            "updated_at": 1727755260388,
+            "updated_at": 1727755351689,
             "i10": "0",
             "i13": "20",
             "i15": "1",
@@ -2981,7 +3027,8 @@
             "matchId": "1-97c6225e-a698-4317-b8c4-f51fdbaf66f5",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "4552"
         }
     ],
     "niko": [
