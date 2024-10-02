@@ -515,6 +515,53 @@
             "elo": "3581"
         }
     ],
+    "jL-": [
+        {
+            "_id": {
+                "matchId": "66fda664b8ba620007d7b8b7",
+                "playerId": "23b6ffbb-86ec-47ab-acaa-9c76bed0af66"
+            },
+            "created_at": 1727899236233,
+            "updated_at": 1727899236233,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "jL-",
+            "playerId": "23b6ffbb-86ec-47ab-acaa-9c76bed0af66",
+            "i40": "2",
+            "i6": "13",
+            "i7": "4",
+            "i8": "16",
+            "i9": "4",
+            "c2": "0.81",
+            "c3": "0.65",
+            "c4": "54",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "23b6ffbb-86ec-47ab-acaa-9c76bed0af66",
+            "i3": "3",
+            "i4": "4",
+            "i5": "team_jL-",
+            "premade": false,
+            "c5": "7",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727899235000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "20",
+            "i18": "13 / 7",
+            "i2": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43",
+            "matchId": "1-983c24a7-3c4a-483f-a415-e0cd7de5c862",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "m0NESY": [
         {
             "_id": {
@@ -1032,6 +1079,52 @@
         }
     ],
     "stavnmagi": [
+        {
+            "_id": {
+                "matchId": "66fda664b8ba620007d7b8b7",
+                "playerId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43"
+            },
+            "created_at": 1727899236228,
+            "updated_at": 1727899326492,
+            "i10": "1",
+            "i13": "18",
+            "i15": "2",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "stavnmagi",
+            "playerId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43",
+            "i40": "2",
+            "i6": "25",
+            "i7": "4",
+            "i8": "12",
+            "i9": "4",
+            "c2": "2.08",
+            "c3": "1.25",
+            "c4": "72",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_stavnmagi",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727899235000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "20",
+            "i18": "13 / 7",
+            "i2": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43",
+            "matchId": "1-983c24a7-3c4a-483f-a415-e0cd7de5c862",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3836"
+        },
         {
             "_id": {
                 "matchId": "66fd9c69f0c72600069a9ac7",
