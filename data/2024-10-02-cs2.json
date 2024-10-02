@@ -1960,7 +1960,7 @@
                 "playerId": "ac71ba3c-d3d4-45e7-8be2-26aa3986867d"
             },
             "created_at": 1727848857257,
-            "updated_at": 1727848857257,
+            "updated_at": 1727848948583,
             "i10": "0",
             "i13": "5",
             "i15": "0",
@@ -1997,7 +1997,8 @@
             "matchId": "1-b10b9a38-0993-4901-9c7a-f9b9d7b4e79c",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3680"
         },
         {
             "_id": {
@@ -2285,7 +2286,7 @@
                 "playerId": "2be37d17-f9fb-42e2-8143-bcdb5f1239b2"
             },
             "created_at": 1727848855725,
-            "updated_at": 1727848855725,
+            "updated_at": 1727848946062,
             "i10": "0",
             "i13": "9",
             "i15": "0",
@@ -2322,7 +2323,8 @@
             "matchId": "1-d6c9f9ed-7344-41bf-b1ad-47f3b4b9bf2d",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3057"
         },
         {
             "_id": {
