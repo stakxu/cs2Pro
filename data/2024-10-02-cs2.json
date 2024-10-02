@@ -1953,6 +1953,54 @@
             "elo": "3788"
         }
     ],
+    "s1mple": [
+        {
+            "_id": {
+                "matchId": "66fcb85bc39dfd0007cc7fe9",
+                "playerId": "ac71ba3c-d3d4-45e7-8be2-26aa3986867d"
+            },
+            "created_at": 1727838299551,
+            "updated_at": 1727838395187,
+            "i10": "0",
+            "i13": "8",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "s1mple",
+            "playerId": "ac71ba3c-d3d4-45e7-8be2-26aa3986867d",
+            "i40": "1",
+            "i6": "9",
+            "i7": "3",
+            "i8": "16",
+            "i9": "1",
+            "c2": "0.56",
+            "c3": "0.53",
+            "c4": "89",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "c781434d-41ba-48b0-ae7f-8cf9b81e2c03",
+            "i3": "0",
+            "i4": "4",
+            "i5": "team_Evelone",
+            "premade": false,
+            "c5": "4",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727838298000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "17",
+            "i18": "13 / 4",
+            "i2": "88cd1925-2e3b-402a-a8a3-0140ecd9f241",
+            "matchId": "1-f417cfac-285b-49e4-abe9-bdb7b4036381",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3747"
+        }
+    ],
     "-Staehr-": [
         {
             "_id": {
