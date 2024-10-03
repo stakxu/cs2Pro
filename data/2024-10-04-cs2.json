@@ -1,1 +1,50 @@
-{}
+{
+    "NEXA": [
+        {
+            "_id": {
+                "matchId": "66fedc49b8ba620007d7ed60",
+                "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12"
+            },
+            "created_at": 1727978569859,
+            "updated_at": 1727978658898,
+            "i10": "1",
+            "i13": "18",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "NEXA",
+            "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12",
+            "i40": "6",
+            "i6": "32",
+            "i7": "12",
+            "i8": "26",
+            "i9": "4",
+            "c2": "1.23",
+            "c3": "0.89",
+            "c4": "56",
+            "c1": "1",
+            "i19": "7",
+            "teamId": "7657e31e-7356-4b24-9930-140c13afda49",
+            "i3": "10",
+            "i4": "2",
+            "i5": "team_-Donii",
+            "premade": false,
+            "c5": "19",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1727978568000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "36",
+            "i18": "19 / 17",
+            "i2": "7657e31e-7356-4b24-9930-140c13afda49",
+            "matchId": "1-d4ac0a4c-6070-4c29-b015-10d731de2150",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3239"
+        }
+    ]
+}
