@@ -417,6 +417,54 @@
             "elo": "4043"
         }
     ],
+    "Brollan": [
+        {
+            "_id": {
+                "matchId": "66ffcb49c39dfd0007cd6b15",
+                "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb"
+            },
+            "created_at": 1728039753127,
+            "updated_at": 1728039843379,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "Brollan",
+            "playerId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i40": "1",
+            "i6": "13",
+            "i7": "4",
+            "i8": "18",
+            "i9": "1",
+            "c2": "0.72",
+            "c3": "0.57",
+            "c4": "54",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "84cd6984-6582-483e-bedb-4ea8366c67fb",
+            "i3": "7",
+            "i4": "3",
+            "i5": "team_Brollan",
+            "premade": false,
+            "c5": "10",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728039752000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "b712421e-8fca-4e6d-afbd-6b6a27d5674b",
+            "matchId": "1-6f8e4c63-f025-4b29-bed2-305347cfe229",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3962"
+        }
+    ],
     "cadiaN": [
         {
             "_id": {
