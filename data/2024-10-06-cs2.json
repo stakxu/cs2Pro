@@ -1621,6 +1621,54 @@
             "elo": "3087"
         }
     ],
+    "NEXA": [
+        {
+            "_id": {
+                "matchId": "6702ace35fd238000717d8e8",
+                "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12"
+            },
+            "created_at": 1728228579682,
+            "updated_at": 1728228670303,
+            "i10": "1",
+            "i13": "7",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "NEXA",
+            "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12",
+            "i40": "2",
+            "i6": "9",
+            "i7": "4",
+            "i8": "8",
+            "i9": "2",
+            "c2": "1.12",
+            "c3": "0.47",
+            "c4": "78",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "910dbae1-76ed-4b6d-bcb8-252bca459687",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_CYPHER--",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728228579000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_mirage",
+            "i12": "19",
+            "i18": "6 / 13",
+            "i2": "910dbae1-76ed-4b6d-bcb8-252bca459687",
+            "matchId": "1-3d0dfc03-2151-42d2-b629-913fed57163d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3329"
+        }
+    ],
     "oSee": [
         {
             "_id": {
@@ -1808,6 +1856,52 @@
         }
     ],
     "Perfecto": [
+        {
+            "_id": {
+                "matchId": "6702aaa524d23a00073acbb4",
+                "playerId": "9a5ff08b-4b66-4797-998b-d78713979945"
+            },
+            "created_at": 1728228005882,
+            "updated_at": 1728228096165,
+            "i10": "1",
+            "i13": "3",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Perfecto",
+            "playerId": "9a5ff08b-4b66-4797-998b-d78713979945",
+            "i40": "3",
+            "i6": "15",
+            "i7": "3",
+            "i8": "10",
+            "i9": "1",
+            "c2": "1.5",
+            "c3": "0.71",
+            "c4": "20",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "fc66887e-a9ae-455d-bde6-1da957d2c306",
+            "i3": "7",
+            "i4": "6",
+            "i5": "team_asdsadwadaf",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728228005000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "21",
+            "i18": "13 / 8",
+            "i2": "fc66887e-a9ae-455d-bde6-1da957d2c306",
+            "matchId": "1-43685955-c1e4-4067-ae7c-9d0834b8849a",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3606"
+        },
         {
             "_id": {
                 "matchId": "6701bfeab8ba620007d9429a",
