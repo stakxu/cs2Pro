@@ -1,1 +1,49 @@
-{}
+{
+    "borupYl": [
+        {
+            "_id": {
+                "matchId": "6704122624d23a00073b604b",
+                "playerId": "9c5d3eaa-7d4a-41d9-9aa5-2b83b3ffebc3"
+            },
+            "created_at": 1728320038387,
+            "updated_at": 1728320038387,
+            "i10": "1",
+            "i13": "10",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "borupYl",
+            "playerId": "9c5d3eaa-7d4a-41d9-9aa5-2b83b3ffebc3",
+            "i40": "3",
+            "i6": "12",
+            "i7": "2",
+            "i8": "5",
+            "i9": "2",
+            "c2": "2.4",
+            "c3": "0.92",
+            "c4": "83",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "c008d876-25fd-43c3-bb9b-0ef717ff25cf",
+            "i3": "12",
+            "i4": "1",
+            "i5": "MissionPossible",
+            "premade": true,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "5f1bd33f-b13d-47bf-b097-eb895b9ada2e",
+            "date": 1728320038000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_vertigo",
+            "i12": "13",
+            "i18": "13 / 0",
+            "i2": "c008d876-25fd-43c3-bb9b-0ef717ff25cf",
+            "matchId": "1-ba3d8d48-5a47-495c-8bb0-3cb69e2e4ea9",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ]
+}
