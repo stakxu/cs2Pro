@@ -6,7 +6,7 @@
                 "playerId": "5b4b2a12-8b68-4eb0-8118-7d182a3a970e"
             },
             "created_at": 1728260970677,
-            "updated_at": 1728260970677,
+            "updated_at": 1728261061041,
             "i10": "0",
             "i13": "12",
             "i15": "0",
@@ -43,7 +43,8 @@
             "matchId": "1-74dbe4c8-9ee3-4af5-af24-fb51a78581c5",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "2931"
         },
         {
             "_id": {
@@ -1303,6 +1304,52 @@
         }
     ],
     "keita": [
+        {
+            "_id": {
+                "matchId": "6703309524d23a00073b2643",
+                "playerId": "c23ed07e-2559-453f-9761-145d74cbab49"
+            },
+            "created_at": 1728262293350,
+            "updated_at": 1728262383479,
+            "i10": "0",
+            "i13": "11",
+            "i15": "0",
+            "i14": "3",
+            "i16": "0",
+            "nickname": "keita",
+            "playerId": "c23ed07e-2559-453f-9761-145d74cbab49",
+            "i40": "3",
+            "i6": "25",
+            "i7": "4",
+            "i8": "14",
+            "i9": "4",
+            "c2": "1.79",
+            "c3": "1.09",
+            "c4": "44",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "fb510ff9-d373-4278-94fb-91fd838f3b88",
+            "i3": "7",
+            "i4": "3",
+            "i5": "team_minijake",
+            "premade": false,
+            "c5": "10",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728262292000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_inferno",
+            "i12": "23",
+            "i18": "13 / 10",
+            "i2": "e48d6625-4f77-4c56-aefa-c3070260a891",
+            "matchId": "1-ed4d2d59-2758-409b-83ee-51209d6cd589",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2012"
+        },
         {
             "_id": {
                 "matchId": "670324f6f0c72600069cd43f",
