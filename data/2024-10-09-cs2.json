@@ -91,6 +91,54 @@
             "status": "APPLIED"
         }
     ],
+    "Boombl4": [
+        {
+            "_id": {
+                "matchId": "670580e3f0c72600069da819",
+                "playerId": "498f0855-a1ab-4be3-b21d-3fc5d70fc441"
+            },
+            "created_at": 1728413923723,
+            "updated_at": 1728414014225,
+            "i10": "0",
+            "i13": "2",
+            "i15": "0",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Boombl4",
+            "playerId": "498f0855-a1ab-4be3-b21d-3fc5d70fc441",
+            "i40": "2",
+            "i6": "10",
+            "i7": "4",
+            "i8": "13",
+            "i9": "0",
+            "c2": "0.77",
+            "c3": "0.71",
+            "c4": "20",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "1b341bfd-268b-4f87-ae93-a0339e6185c6",
+            "i3": "1",
+            "i4": "0",
+            "i5": "team_interz",
+            "premade": false,
+            "c5": "1",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728413922000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "14",
+            "i18": "1 / 13",
+            "i2": "c0010f43-052c-4629-83b2-b6c019c220d1",
+            "matchId": "1-14b9ac93-f9ff-4c11-86af-6487e30045e3",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3679"
+        }
+    ],
     "donk666": [
         {
             "_id": {
@@ -280,6 +328,52 @@
         }
     ],
     "NEXA": [
+        {
+            "_id": {
+                "matchId": "67057faaf0c72600069da710",
+                "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12"
+            },
+            "created_at": 1728413611186,
+            "updated_at": 1728413701233,
+            "i10": "1",
+            "i13": "8",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "NEXA",
+            "playerId": "0cae2df6-84d4-4fff-936b-87e0b28eab12",
+            "i40": "0",
+            "i6": "11",
+            "i7": "8",
+            "i8": "7",
+            "i9": "2",
+            "c2": "1.57",
+            "c3": "0.73",
+            "c4": "73",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "910dbae1-76ed-4b6d-bcb8-252bca459687",
+            "i3": "10",
+            "i4": "3",
+            "i5": "team_CYPHER--",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728413610000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "15",
+            "i18": "13 / 2",
+            "i2": "910dbae1-76ed-4b6d-bcb8-252bca459687",
+            "matchId": "1-240833ce-4ec6-4a6d-a355-56b62d22fe01",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3371"
+        },
         {
             "_id": {
                 "matchId": "67057364f0c72600069d9d7c",
