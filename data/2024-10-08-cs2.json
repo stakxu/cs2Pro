@@ -1256,6 +1256,54 @@
             "elo": "3819"
         }
     ],
+    "oSee": [
+        {
+            "_id": {
+                "matchId": "6704a0fc5fd238000718bb8b",
+                "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1"
+            },
+            "created_at": 1728356604970,
+            "updated_at": 1728356696900,
+            "i10": "1",
+            "i13": "10",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "oSee",
+            "playerId": "faf7743e-7e28-4426-ac67-1dba6bbaccd1",
+            "i40": "1",
+            "i6": "18",
+            "i7": "9",
+            "i8": "16",
+            "i9": "2",
+            "c2": "1.12",
+            "c3": "0.75",
+            "c4": "56",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "a522dceb-a728-467c-937c-3e59be6c7222",
+            "i3": "5",
+            "i4": "8",
+            "i5": "team_HexT",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "3aced33b-f21c-450c-91d5-10535164e0ab",
+            "date": 1728356604000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "NA",
+            "i1": "de_mirage",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "a522dceb-a728-467c-937c-3e59be6c7222",
+            "matchId": "1-67a204f5-78ba-4cb5-b4f6-9b9cf6028dc2",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3720"
+        }
+    ],
     "Perfecto": [
         {
             "_id": {
