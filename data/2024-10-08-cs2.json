@@ -699,7 +699,7 @@
                 "playerId": "e5e8e2a6-d716-4493-b949-e16965f41654"
             },
             "created_at": 1728394206409,
-            "updated_at": 1728394206409,
+            "updated_at": 1728394296667,
             "i10": "1",
             "i13": "14",
             "i15": "1",
@@ -736,7 +736,8 @@
             "matchId": "1-540fb110-a440-45ac-a0db-a547b2f4828f",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "4783"
         },
         {
             "_id": {
@@ -1162,6 +1163,51 @@
     "JamYoung": [
         {
             "_id": {
+                "matchId": "67053576f0c72600069d7b15",
+                "playerId": "775f4105-de70-4d88-ae5d-5ffff72d7bba"
+            },
+            "created_at": 1728394614642,
+            "updated_at": 1728394614642,
+            "i10": "1",
+            "i13": "6",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "JamYoung",
+            "playerId": "775f4105-de70-4d88-ae5d-5ffff72d7bba",
+            "i40": "2",
+            "i6": "12",
+            "i7": "8",
+            "i8": "7",
+            "i9": "4",
+            "c2": "1.71",
+            "c3": "0.71",
+            "c4": "50",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "i3": "10",
+            "i4": "3",
+            "i5": "TYLOO",
+            "premade": true,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "bc5249d0-603d-49f5-9503-36d48534cbc8",
+            "date": 1728394612000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SEA",
+            "i1": "de_inferno",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "matchId": "1-fae7957a-5adb-4936-8611-3dc2ac1db7ba",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        },
+        {
+            "_id": {
                 "matchId": "67052a2df0c72600069d769d",
                 "playerId": "775f4105-de70-4d88-ae5d-5ffff72d7bba"
             },
@@ -1395,6 +1441,51 @@
         }
     ],
     "moseyuh": [
+        {
+            "_id": {
+                "matchId": "67053576f0c72600069d7b15",
+                "playerId": "3504e4fa-8cac-47d8-8530-866c6310cb71"
+            },
+            "created_at": 1728394614643,
+            "updated_at": 1728394614643,
+            "i10": "1",
+            "i13": "11",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "moseyuh",
+            "playerId": "3504e4fa-8cac-47d8-8530-866c6310cb71",
+            "i40": "0",
+            "i6": "15",
+            "i7": "6",
+            "i8": "7",
+            "i9": "1",
+            "c2": "2.14",
+            "c3": "0.88",
+            "c4": "73",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "i3": "10",
+            "i4": "3",
+            "i5": "TYLOO",
+            "premade": true,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "bc5249d0-603d-49f5-9503-36d48534cbc8",
+            "date": 1728394612000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SEA",
+            "i1": "de_inferno",
+            "i12": "17",
+            "i18": "4 / 13",
+            "i2": "e66a473a-797d-41fd-9310-f0f70a3387f4",
+            "matchId": "1-fae7957a-5adb-4936-8611-3dc2ac1db7ba",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        },
         {
             "_id": {
                 "matchId": "67052a2df0c72600069d769d",
