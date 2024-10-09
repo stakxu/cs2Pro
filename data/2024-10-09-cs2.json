@@ -651,6 +651,54 @@
             "elo": "4803"
         }
     ],
+    "Kaah": [
+        {
+            "_id": {
+                "matchId": "6705c597b8ba620007daf4b1",
+                "playerId": "926e4821-c787-49c3-a884-631d5928c23a"
+            },
+            "created_at": 1728431512232,
+            "updated_at": 1728431601633,
+            "i10": "1",
+            "i13": "8",
+            "i15": "1",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Kaah",
+            "playerId": "926e4821-c787-49c3-a884-631d5928c23a",
+            "i40": "1",
+            "i6": "13",
+            "i7": "7",
+            "i8": "11",
+            "i9": "3",
+            "c2": "1.18",
+            "c3": "0.72",
+            "c4": "62",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "43450cfb-f98d-4dc5-927a-e03d32715bdd",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_aversity7",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "73557c8e-4b67-4ac8-bae0-e910b49a5fa0",
+            "date": 1728431510000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SA",
+            "i1": "de_mirage",
+            "i12": "18",
+            "i18": "5 / 13",
+            "i2": "43450cfb-f98d-4dc5-927a-e03d32715bdd",
+            "matchId": "1-8f2c75cc-47a8-41d9-bdbb-089aa9f259f9",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2335"
+        }
+    ],
     "keita": [
         {
             "_id": {
