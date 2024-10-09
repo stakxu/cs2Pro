@@ -1,4 +1,52 @@
 {
+    "AEeEeEe": [
+        {
+            "_id": {
+                "matchId": "67066de8f0c72600069df183",
+                "playerId": "172b73a3-e010-42f9-a388-798c552fae29"
+            },
+            "created_at": 1728474600868,
+            "updated_at": 1728474693416,
+            "i10": "0",
+            "i13": "7",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "AEeEeEe",
+            "playerId": "172b73a3-e010-42f9-a388-798c552fae29",
+            "i40": "5",
+            "i6": "19",
+            "i7": "4",
+            "i8": "19",
+            "i9": "1",
+            "c2": "1",
+            "c3": "0.9",
+            "c4": "37",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "172b73a3-e010-42f9-a388-798c552fae29",
+            "i3": "5",
+            "i4": "3",
+            "i5": "team_AEeEeEe",
+            "premade": false,
+            "c5": "8",
+            "bestOf": "2",
+            "competitionId": "f950356c-8080-414a-bdc0-b8cd94974356",
+            "date": 1728474600000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "SEA",
+            "i1": "de_dust2",
+            "i12": "21",
+            "i18": "13 / 8",
+            "i2": "a4a10ce9-de2c-4d80-b665-492d4afad66d",
+            "matchId": "1-edcbc1e7-0e68-42ac-aca4-899fbf8cad9d",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "2300"
+        }
+    ],
     "allee-": [
         {
             "_id": {
