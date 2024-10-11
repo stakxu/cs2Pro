@@ -371,6 +371,54 @@
             "elo": "3294"
         }
     ],
+    "bodyy": [
+        {
+            "_id": {
+                "matchId": "67086553b8ba620007dbf5be",
+                "playerId": "8d9e4df9-96b5-448d-82d8-c4a46ad2f368"
+            },
+            "created_at": 1728603475812,
+            "updated_at": 1728603563303,
+            "i10": "0",
+            "i13": "12",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "bodyy",
+            "playerId": "8d9e4df9-96b5-448d-82d8-c4a46ad2f368",
+            "i40": "5",
+            "i6": "20",
+            "i7": "5",
+            "i8": "22",
+            "i9": "1",
+            "c2": "0.91",
+            "c3": "0.83",
+            "c4": "60",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "8d9e4df9-96b5-448d-82d8-c4a46ad2f368",
+            "i3": "6",
+            "i4": "5",
+            "i5": "team_bodyy",
+            "premade": false,
+            "c5": "11",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728603472000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "21d9af2f-5e69-4037-9c2b-f6098ccf24cd",
+            "matchId": "1-d088a256-9258-4b9f-a705-7c4c394ff353",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3331"
+        }
+    ],
     "HooXi": [
         {
             "_id": {
