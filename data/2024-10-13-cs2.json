@@ -469,6 +469,54 @@
             "elo": "3306"
         }
     ],
+    "Perfecto": [
+        {
+            "_id": {
+                "matchId": "670ab9d8b8ba620007dce06c",
+                "playerId": "9a5ff08b-4b66-4797-998b-d78713979945"
+            },
+            "created_at": 1728756185027,
+            "updated_at": 1728756276756,
+            "i10": "0",
+            "i13": "8",
+            "i15": "2",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "Perfecto",
+            "playerId": "9a5ff08b-4b66-4797-998b-d78713979945",
+            "i40": "5",
+            "i6": "23",
+            "i7": "5",
+            "i8": "19",
+            "i9": "3",
+            "c2": "1.21",
+            "c3": "0.79",
+            "c4": "35",
+            "c1": "1",
+            "i19": "1",
+            "teamId": "4fc6ea57-dc2f-48bb-8817-3f165dd96385",
+            "i3": "6",
+            "i4": "6",
+            "i5": "team_Chopperis",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728756184000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "29",
+            "i18": "13 / 16",
+            "i2": "48511e0c-2714-4418-bd0c-8005190d9ffd",
+            "matchId": "1-92c4f814-cdbf-46fb-b7d1-597568da4dd9",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3611"
+        }
+    ],
     "REZ": [
         {
             "_id": {
