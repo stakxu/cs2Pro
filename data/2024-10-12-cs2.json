@@ -1916,7 +1916,7 @@
                 "playerId": "15371e7d-a30d-4b6a-80d8-d8ca1b8cbc43"
             },
             "created_at": 1728741709205,
-            "updated_at": 1728741709205,
+            "updated_at": 1728741799566,
             "i10": "1",
             "i13": "12",
             "i15": "0",
@@ -1953,7 +1953,8 @@
             "matchId": "1-ede483dd-fe50-4b71-a273-6886ab7585d9",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3841"
         }
     ],
     "stew": [
