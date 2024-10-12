@@ -518,7 +518,7 @@
                 "playerId": "09b3fcd5-ee22-4834-8969-d32577bad72d"
             },
             "created_at": 1728736177189,
-            "updated_at": 1728736177189,
+            "updated_at": 1728736268208,
             "i10": "0",
             "i13": "5",
             "i15": "0",
@@ -555,7 +555,8 @@
             "matchId": "1-ec912448-16c4-493e-baad-2d660ed0d2bc",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3048"
         }
     ],
     "degst3r": [
