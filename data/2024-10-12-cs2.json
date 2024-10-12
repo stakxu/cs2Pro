@@ -511,6 +511,53 @@
             "elo": "3393"
         }
     ],
+    "cadiaN": [
+        {
+            "_id": {
+                "matchId": "670a6bb15fd23800071af445",
+                "playerId": "09b3fcd5-ee22-4834-8969-d32577bad72d"
+            },
+            "created_at": 1728736177189,
+            "updated_at": 1728736177189,
+            "i10": "0",
+            "i13": "5",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "cadiaN",
+            "playerId": "09b3fcd5-ee22-4834-8969-d32577bad72d",
+            "i40": "1",
+            "i6": "13",
+            "i7": "6",
+            "i8": "16",
+            "i9": "2",
+            "c2": "0.81",
+            "c3": "0.62",
+            "c4": "38",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "2e11396c-5de8-4407-827e-04be03d22748",
+            "i3": "6",
+            "i4": "2",
+            "i5": "team_Hjelholt",
+            "premade": false,
+            "c5": "8",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1728736176000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_dust2",
+            "i12": "21",
+            "i18": "13 / 8",
+            "i2": "17e8b62a-4ae9-45d0-93f2-e8003b615770",
+            "matchId": "1-ec912448-16c4-493e-baad-2d660ed0d2bc",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED"
+        }
+    ],
     "degst3r": [
         {
             "_id": {
