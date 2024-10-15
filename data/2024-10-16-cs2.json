@@ -47,7 +47,101 @@
             "elo": "2992"
         }
     ],
+    "borupYl": [
+        {
+            "_id": {
+                "matchId": "670edfa61404690006151a82",
+                "playerId": "9c5d3eaa-7d4a-41d9-9aa5-2b83b3ffebc3"
+            },
+            "created_at": 1729028006552,
+            "updated_at": 1729028099512,
+            "i10": "1",
+            "i13": "13",
+            "i15": "0",
+            "i14": "1",
+            "i16": "0",
+            "nickname": "borupYl",
+            "playerId": "9c5d3eaa-7d4a-41d9-9aa5-2b83b3ffebc3",
+            "i40": "5",
+            "i6": "22",
+            "i7": "6",
+            "i8": "14",
+            "i9": "3",
+            "c2": "1.57",
+            "c3": "0.92",
+            "c4": "59",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "358d33ac-adc2-4015-86c7-2b6d97734071",
+            "i3": "6",
+            "i4": "7",
+            "i5": "team_Icarus10",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1729028006000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "24",
+            "i18": "11 / 13",
+            "i2": "358d33ac-adc2-4015-86c7-2b6d97734071",
+            "matchId": "1-a2f2d3ed-e762-4448-8b0e-96eafe231181",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3492"
+        }
+    ],
     "Buzz": [
+        {
+            "_id": {
+                "matchId": "670edf091a46e10007ba4d4e",
+                "playerId": "5b8d259e-503e-4afe-b621-0dc202d46e43"
+            },
+            "created_at": 1729027849614,
+            "updated_at": 1729027939915,
+            "i10": "1",
+            "i13": "3",
+            "i15": "0",
+            "i14": "2",
+            "i16": "0",
+            "nickname": "Buzz",
+            "playerId": "5b8d259e-503e-4afe-b621-0dc202d46e43",
+            "i40": "3",
+            "i6": "15",
+            "i7": "4",
+            "i8": "14",
+            "i9": "3",
+            "c2": "1.07",
+            "c3": "0.71",
+            "c4": "20",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "6dfe186b-27fd-426b-a513-7d7188c270a2",
+            "i3": "9",
+            "i4": "4",
+            "i5": "team_jabbi",
+            "premade": false,
+            "c5": "13",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1729027849000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "21",
+            "i18": "8 / 13",
+            "i2": "6dfe186b-27fd-426b-a513-7d7188c270a2",
+            "matchId": "1-f9fb6bab-4bd6-4c46-9476-3eb53dbfb185",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3536"
+        },
         {
             "_id": {
                 "matchId": "670ed58dd4aee200076ba4f1",
@@ -756,7 +850,7 @@
                 "playerId": "ae6f1503-1de9-4b9b-9a29-f1b9de916870"
             },
             "created_at": 1729027849613,
-            "updated_at": 1729027849613,
+            "updated_at": 1729027941085,
             "i10": "1",
             "i13": "14",
             "i15": "0",
@@ -793,7 +887,8 @@
             "matchId": "1-f9fb6bab-4bd6-4c46-9476-3eb53dbfb185",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3605"
         },
         {
             "_id": {
@@ -1507,7 +1602,7 @@
                 "playerId": "74f9240e-fe24-4aac-aa37-53b2b5e804d8"
             },
             "created_at": 1729027849615,
-            "updated_at": 1729027849615,
+            "updated_at": 1729027941414,
             "i10": "1",
             "i13": "10",
             "i15": "1",
@@ -1544,7 +1639,8 @@
             "matchId": "1-f9fb6bab-4bd6-4c46-9476-3eb53dbfb185",
             "matchRound": "1",
             "played": "1",
-            "status": "APPLIED"
+            "status": "APPLIED",
+            "elo": "3814"
         },
         {
             "_id": {
