@@ -95,6 +95,54 @@
             "elo": "3407"
         }
     ],
+    "somedieyoung": [
+        {
+            "_id": {
+                "matchId": "670eab3dd4aee200076b803f",
+                "playerId": "709380ff-1b2a-4eab-864f-8e4801cbedff"
+            },
+            "created_at": 1729014589410,
+            "updated_at": 1729014680095,
+            "i10": "0",
+            "i13": "11",
+            "i15": "1",
+            "i14": "0",
+            "i16": "0",
+            "nickname": "somedieyoung",
+            "playerId": "709380ff-1b2a-4eab-864f-8e4801cbedff",
+            "i40": "4",
+            "i6": "18",
+            "i7": "5",
+            "i8": "14",
+            "i9": "3",
+            "c2": "1.29",
+            "c3": "0.95",
+            "c4": "61",
+            "c1": "1",
+            "i19": "0",
+            "teamId": "709380ff-1b2a-4eab-864f-8e4801cbedff",
+            "i3": "6",
+            "i4": "0",
+            "i5": "team_somedieyoung",
+            "premade": false,
+            "c5": "6",
+            "bestOf": "2",
+            "competitionId": "f4148ddd-bce8-41b8-9131-ee83afcdd6dd",
+            "date": 1729014589000,
+            "game": "cs2",
+            "gameMode": "5v5",
+            "i0": "EU",
+            "i1": "de_ancient",
+            "i12": "19",
+            "i18": "13 / 6",
+            "i2": "6e24be77-e2ff-482a-a713-ddc24e7fe8df",
+            "matchId": "1-ab954952-a359-46ca-ab0a-06e1bbd36295",
+            "matchRound": "1",
+            "played": "1",
+            "status": "APPLIED",
+            "elo": "3418"
+        }
+    ],
     "Woro2k": [
         {
             "_id": {
